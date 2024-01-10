@@ -20,7 +20,7 @@ Additionally, each task displays its assigned category and deadline. Task status
 
 For efficient task management, a convenient delete button at the top allows users to clear all tasks. The category filter ensures a streamlined view, enabling users to filter tasks based on their designated categories. Experience simplicity and clarity in task tracking – your productivity, your way.
 
-![deleteall](https://github.com/keerthikapopuri/ToDoApplicationKeka/assets/79918843/bc87ab49-a13b-4eae-8b4d-a0e611c7ff4a)
+![deleteall](https://github.com/keerthikapopuri/ToDoApplicationKeka/assets/79918843/bc87ab49-a13b-4eae-8b4d-a0e611c7ff4a )
 
 ### 3. Edit/Update task
 Effortlessly edit your tasks with a single click! Easily modify task information like name, description, category, priority, and deadline with a simple click. Seamlessly update the task status. Swiftly remove tasks using the top delete button. Streamline your task management, tailored to your preferences.
