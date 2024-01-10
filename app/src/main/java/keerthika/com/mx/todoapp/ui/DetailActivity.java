@@ -280,7 +280,7 @@ public class DetailActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int which) {
 
                         db.deleteNota(nota_id);
-                        new NotificationUtils().showBotification(DetailActivity.this, "Tarea "+nameTaskStr+" eliminada", "Se ha eliminado la tarea "+nameTaskStr+" con exito");
+                        new NotificationUtils().showBotification(DetailActivity.this, "Task "+nameTaskStr+" deleted", "The task has been deleted "+nameTaskStr);
                         goToBack();
                     }
                 })
