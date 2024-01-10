@@ -27,6 +27,10 @@ For efficient task management, a convenient delete button at the top allows user
 
 <img src="https://github.com/keerthikapopuri/ToDoApplicationKeka/assets/79918843/806678a4-6dbf-4226-8d82-e5c0b24ee1db" alt="Your image title" width="200" height="400" />
 
+
+<img src="https://github.com/keerthikapopuri/ToDoApplicationKeka/assets/79918843/b6b20764-7972-418f-a4f8-fee026a38555" alt="Your image title" width="200" height="400" />
+
+
 ### 3. Edit/Update task
 Effortlessly edit your tasks with a single click! Easily modify task information like name, description, category, priority, and deadline with a simple click. Seamlessly update the task status. Swiftly remove tasks using the top delete button. Streamline your task management, tailored to your preferences.
 
