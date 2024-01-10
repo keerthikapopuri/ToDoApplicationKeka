@@ -56,9 +56,10 @@ SQLite is employed for local storage and management of tasks along with their re
 ### Install the android studio
 Visit the official Android Studio download page at https://developer.android.com/studio. Download the version that is compatible with your operating system (Windows, macOS, or Linux).On the first launch, Android Studio will prompt you to install the Android SDK components. Follow the on-screen instructions to complete the setup.
 Set up a new Android Virtual Device (AVD) if you plan to use an emulator.
-#### Download zip file of the application 
+### Run the application
+#### 1. Download zip file of the application 
 Download the application as a compressed zip file, extract the contents, and then open the project in Android Studio to run it.
-#### Use github cli
+#### 2. Use github cli
 Make sure you have GitHub CLI installed on your machine. You can download it from GitHub CLI Releases and follow the installation instructions for your operating system.Use the github cli command to clone the repository to your local machine. Then navigate to the project directory and run the application.
 
 
