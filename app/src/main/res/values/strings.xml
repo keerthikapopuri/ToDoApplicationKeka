@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tasks App</string>
+    <string name="delete_all">Delete All</string>
+    <string name="completed">COMPLETED</string>
+    <string name="desc">Description</string>
+    <string name="info">Information</string>
+    <string name="hint_name">Name </string>
+    <string name="hint_description">Description</string>
+    <string name="incomplete">INCOMPLETE</string>
+
+    <string name="title_alert_dialog">Delete Task</string>
+    <string name="message_alert_dialog">Do you really want to delete this task? This action is irreversible.</string>
+
+    <string name="title_alert_dialog_all">Delete All Tasks</string>
+    <string name="message_alert_dialog_all">Do you really want to delete all tasks? This action is irreversible.</string>
+
+    <string name="button_positive">Accept</string>
+    <string name="button_negative">Cancel</string>
+
+    <string name="text_name">Task Name: </string>
+    <string name="text_description">Task Description: </string>
+    <string name="status_task">Task Status</string>
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="priority">Priority: %s</string>
+
+
+</resources>
+
+

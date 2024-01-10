@@ -1,0 +1,15 @@
+<!-- res/drawable/spinner_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Background color -->
+            <corners android:radius="4dp" /> <!-- Corner radius, adjust as needed -->
+        </shape>
+    </item>
+    <item android:right="12dp">
+        <bitmap
+            android:gravity="end|center_vertical"
+            android:src="@drawable/ic_arrow_down"
+        android:tint="?attr/colorControlNormal" />
+    </item>
+</layer-list>
